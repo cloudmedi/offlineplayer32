@@ -17,7 +17,7 @@
     "build:mac": "npm run build && electron-builder --mac",
     "build:linux": "npm run build && electron-builder --linux"
   },
-  "repository": "https://github.com/cloudmedi/offlineplayer",
+  "repository": "https://github.com/cloudmedi/offlineplayer32",
   "publish": {
     "provider": "github",
     "releaseType": "release"
