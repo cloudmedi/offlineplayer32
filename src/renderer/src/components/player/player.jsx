@@ -544,7 +544,7 @@ setAudioIndex(0);
         </div>
       </div>
       <div>
-        <audio id="audio-player" src={savedPlaylists[audioIndex]?.playlink} controls autoPlay={playing} />
+        <audio id="audio-player" src={savedPlaylists[audioIndex]?.playlink}  autoPlay={playing} />
         <audio id="audio-player1" autoPlay={campainPlaying} />
       </div>
 
